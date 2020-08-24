@@ -1,24 +1,19 @@
-# README
+## Flatiron Hogwarts
+A website where students can join classes and communities with social media elements.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+---
 
-Things you may want to cover:
+![Site Image](https://alessandro-duterte.netlify.app/images/flatironhogwarts.png)
 
-* Ruby version
+***
 
-* System dependencies
+### Tech Used
+Ruby
+Ruby on Rails
+BCrypt
 
-* Configuration
+---
 
-* Database creation
 
-* Database initialization
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/alessandro-duterte/)
